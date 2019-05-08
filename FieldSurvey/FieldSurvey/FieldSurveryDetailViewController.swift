@@ -9,7 +9,8 @@
 import UIKit
 
 class FieldSurveryDetailViewController: UIViewController {
-
+    @IBOutlet weak var fieldiconimageView: UIImageView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
